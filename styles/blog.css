@@ -1,4 +1,8 @@
 div{
     background-color: aquamarine;
     padding: 10px;
+    margin: 5px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 40%;
 }
